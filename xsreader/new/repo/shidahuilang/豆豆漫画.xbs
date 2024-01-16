@@ -31,14 +31,14 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-971c6be3ec9f.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-6b3d1b701ef1.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-484ba3bb07be.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-c10442588322.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-fd21cceed2ca.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-c44766927ec9.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-84d2eb3bfd6c.css" />
 
   
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["docset_management_ui","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-615331239e8d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-0396732f1d42.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-79f9611c275b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-6a10dd-8837a7c17569.js"></script>
@@ -47,12 +47,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-9f960d9b217c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-086f7a27bac0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-c6fd49e3fd28.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_combobox-nav_dist_index_js-node_modu-344bff-421f7a8c1008.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-50c5393dc6a6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-29dc30-a2a71f11a507.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-59c459-d0c49521eb35.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-d6c09d7e4e48.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-3867c6400aef.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-eb424d-1f1d46301f70.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-d05741cabc64.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-76246d26c47d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-55c0fbe6bffe.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-c95a42be370f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-978abc0-15861e0630b6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-1b562c29ab8e.js"></script>
@@ -60,15 +61,14 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-c91f4ad18b62.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-72c9fbde5ad4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-231ccf-aa129238d13b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-ac74c6-c3eb71941f78.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-95b84ee6bc34.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-618d6c-59676cf880fb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-c83403-d1beba7fa520.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-9347f91169af.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-421cec-751caa0072bd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-0a630b4c5ac5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-bec8239542bc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-b85e9f4f1304.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-9f37fe332d25.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f9a8c3f53f8b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-d0256ebff5cd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-99d196517b1b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-2658b004279a.js"></script>
@@ -85,17 +85,19 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_react-router-dom_dist_index_js-cc35d258380c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_PageLayout_PageLayout_js-a0f5dc4acaba.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ConfirmationDialog_ConfirmationDialog_js-1396cd0754d9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_js-node_modules_primer_react_lib-esm_Flash_F-ad64b6-7663299a84eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-23b59f-4217d5edbfa9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TreeView_TreeView_js-5d623f8c8e93.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_UnderlineNav_index_js-68debb3ba7c5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_AvatarStack_AvatarStack_js-node_modules_primer_reac-77637a-4ca8e00c56b9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-45b3fc-95b471faf4f1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_AvatarStack_AvatarStack_js-node_modules_primer_reac-f028ee-6d536c37fd99.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_react-core_AppContextProvider_ts-809ab9-10c23fc44eab.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-e02f221820ce.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-6e3a367dcc7e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-858bb94813b1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-f5e52c-fb1ffa8136a1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-5acf59-7f75acbdb36e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-681869-a92a31706e0e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-code-view_pages_CodeView_tsx-d5bb69719d00.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-4a641d118186.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-code-view_pages_CodeView_tsx-7a8c7e48633c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-3e57a23e2ced.js"></script>
 
 
   <title>shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan · GitHub</title>
@@ -108,7 +110,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="2F33:318D:67F4926:9595404:65A262CF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3cc579f71ef8af14d137d2d6473b90e64b8865dd6b5f9f1808d38b40fa5a8c71" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyRjMzOjMxOEQ6NjdGNDkyNjo5NTk1NDA0OjY1QTI2MkNGIiwidmlzaXRvcl9pZCI6Ijg3OTYxMzQwOTY2ODUzOTI1OTIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="102f95ca959f1d1678b403d3ee30f8e4e8819ae9ff2e43cf14c915dcae5ddb53" data-pjax-transient="true"/>
+  <meta name="request-id" content="F94C:7F11:938AB:DC1C3:65A657AA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e68f88bfc3f219803ef54883e1b54112541984803db810be3b934d683690b81d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGOTRDOjdGMTE6OTM4QUI6REMxQzM6NjVBNjU3QUEiLCJ2aXNpdG9yX2lkIjoiOTAwNTk2MjA5NTQxMTc0NjczMCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="58c691942f4adbb917016d05a81f5bb3650f8969e30d996c2779d319e0f2230a" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:479415631" data-turbo-transient>
@@ -148,8 +150,8 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/32ce2012e8f4550d8b6eb1e757e9d4222f8375b0d130045898afa6488e668d96/shidahuilang/shuyuan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan" /><meta name="twitter:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/32ce2012e8f4550d8b6eb1e757e9d4222f8375b0d130045898afa6488e668d96/shidahuilang/shuyuan" /><meta property="og:image:alt" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan" /><meta property="og:url" content="https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs" /><meta property="og:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/653b63b59e680b7775c9e7daa0536554b5d8dd6ea656b2298c4f25831a529e03/shidahuilang/shuyuan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan" /><meta name="twitter:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/653b63b59e680b7775c9e7daa0536554b5d8dd6ea656b2298c4f25831a529e03/shidahuilang/shuyuan" /><meta property="og:image:alt" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan" /><meta property="og:url" content="https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs" /><meta property="og:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - shidahuilang/shuyuan" />
       
 
 
@@ -161,10 +163,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="24e1b5243789b3d1570dce9efc3eedb8ae080c0bab16b25670fe2bdc1922fb1b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="bddb229504fdf7353f1a4d6d37aafc3ad3ef876830bbd92bac45e658df907d90" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="611e3beaf6df2ba8f98070845c8e5ef70f0ffc535519af6685e8341fcd41c235" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="82178f2c8813519ae62de82789cf5e4f3059d2a347876898d2fe58d4b2875255" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="4b85850ea3fee1d30edf53310c54b1342b0f71e380c0fcba65a138f17f83a617" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="b45af04c4fa1a2921d1f8cc74b68b7206e3538b9033846b785a527ca23825423" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="2bc7942e2b0be7dab4ebc6763f6ce21402e1d00a6844a4d1a4609ff4d1e99a80" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -559,7 +561,7 @@
       <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
           <div class="border-bottom pb-3 mb-3">
             <ul class="list-style-none f5" >
-                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+                <li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       
       <div>
@@ -569,12 +571,12 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.rb -->
+
             </ul>
           </div>
           <div class="border-bottom pb-3 mb-3">
             <ul class="list-style-none f5" >
-                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+                <li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_cta:The ReadME Project;&quot;}" href="/readme">
       
       <div>
@@ -584,33 +586,33 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.rb -->
+
             </ul>
           </div>
           <div class="">
               <span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
             <ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading">
-                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+                <li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.rb -->
-                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+
+                <li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.rb -->
-                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+
+                <li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.rb -->
+
             </ul>
           </div>
       </div>
@@ -628,7 +630,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:shidahuilang/shuyuan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="9UMdI2wezkYkkrZnj4qLgFstvhHyMsfe1Fz20cY7HPnHJOQ3v7K9q9kGs7MjF4QSz49YCJN5YXnt1GsHi5PF1Q" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="shidahuilang/shuyuan" data-current-org="" data-current-owner="shidahuilang" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=ZinTZNCS56RrEXrb7oUVmtHYwKbVIqsViM27B5IRKev%2B0VXP1O7QMt6eRHu7XzUYOf4diBYZzRliOnVA3L1dC3TnPaNqccWeLqxsyPx0NdcR1EM4ARVkEv90248fSaCg8iY8jmryGQdvLGbnjqPCbFuG4KgiWP3E5Ndqy8%2FOA5RPR3X%2BS2CyRHy1I5pzALJeQk6oN%2Bk1XCPTdhdaTjm9bsgrRcSfLDh2mtVRpCKzDFZBzXrAO%2BOsnc40qFrGokPIV7rIBkTk3zTOWLD%2BREu4F5wmFPBhntv93Zuc1PDdfAcMpGh%2Bv%2F71RJLem7FwLq2t6nLeeuJabedt2mAVqxk08iyELLeUzWjssPVgKvw8Z%2B4vAVrDz7nvQIxQTFhc4gOxTTbCkPvapWVol8u7v09hUNUdo8p%2BeqX1UA8%2FJ1anc7OxKl9fey%2FJbkZfdguXE382mQnG7%2Free8WkAeOCfoW5eI3AmxPLaGQyddx52Vbaeea4A2SwFMsK6JMUIERKEYakF1kcZGz31gxge46X2J1XAOjk8BpwAXDYr2klpD42rMoum%2FpUS%2B6Z4vRftYtwljPEOB9lVEYd4KE9GgJsHm%2F6X644O0w7xvSuClrnYAvFbkiCncLd12cPcNmunhRUB1gIeVLV%2BNjD2MstFUy9MPEaAKDYWW6N4GOo6XA2ohwhzFP33kzpfHDZrY3C--LUHjLAO0rCOn1OSd--PoMQwVBjUx%2B%2BV%2F42FwxgBg%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:shidahuilang/shuyuan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="hu4xI2fieLbugzWKGXWn2Whq_Q3GWaZwKTCWiSuBYLrepyi-B7GfR_HgHsHdUsMhIbTRaWaal9zUZIpF-za3ew" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="shidahuilang/shuyuan" data-current-org="" data-current-owner="shidahuilang" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=ierd6dYc4Ps%2FtgyWiWJ99kqwythpbYPPpWQ4UEhvXw03DnsF5CQM7sOq8OGRR21tEdcDxVEV0fG7GmzxsHA8ucsnI3n7%2B2N5KCoWLw3LWYCjcWjIwa%2BBeq4pEp46VM5rvMEhqgH3KrzKm%2FG3HxmdAatWxyGFVkRTvOTvOff0X2O%2BduxyTE7u5DFoT0zLaiVwHjjV0ntBBvOaqDXQ7QFUjoqLopkOYzFXKgN1EUxUJvgF4IePlNChrjwoFq4dZRJvJcwKPCR543IaRNk0kSD5yCSQmIRGfqnoM7ot6%2B4sMv1bb8YjFpu8DngMhdxlyd5F7305ctC1RtCv%2FnHtMVMPe%2BIWBzfJJ2IIXlva3oLPV%2BFpgiFB0ICkZs5GIT3v63YkPDJ6%2BTw5yb7k8%2BHQnyAknGHJI5EkmXaPTw4qbsGKLCJMFE27CTwbQGxZVRKf%2FuEaAizoRQUWjggPS0oWsBRbZtJIA4WVms7gGDetquDBextJU8Cl5iqL71ZbhcxUwZ4KCwTFV3loG89inQzjmw%2BMNmq0mP5%2FwAFcQOoPwsVguIPkVAQ9eRocBPwzQom%2FvjT%2B%2FgYYybUcB4s3WlntwALNbepdeWjejz90Y%2Fp6rvFq9GucV1%2F4eUDlMIrVFLFCRKdVjrQ5xSjJIhNmRO4nO48M5swPUKLjUffNoHJnIaA3r5X9KU5v%2FO4aIVAT--HGxhF7ineg%2F3DIph--nRnv4wqzGyjB%2F9TUW0eVeQ%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -690,7 +692,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-5929cfb2-70c7-4e01-96b0-0e885b1949f1" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-3bbbfcc5-c7a8-46ec-bc48-dea02aea7c72" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -801,7 +803,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-5929cfb2-70c7-4e01-96b0-0e885b1949f1" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-089673f7-a635-4168-ab7c-b60b9d24663d" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -842,7 +844,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ssshR7/XhNYHIO8M6LzzYaymouFkdBzx4kPlHLsxeDTkhFhwPFQvZ5GpZS98a6hdZi4IKLXpterpGv+HBwYlVw==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="/Hj7dtnBKdEVLCF5BSlFyKVFPUmZbMvNnbYsLzGZ9BmMCVIjzCBUhxvDjhySEFmMEeRfqtrJz65ZCQtHJT+Qkw==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -879,7 +881,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="07zio9UYwYJUNEAtk3HTYucQsJj7fBi76rSaJUOmNsp6sXa2he7DeTnY2u32da+I3nU931WH96drHmWM7uIlNg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="TBFcrz8jNhEPiGVQsZnzOfPORZoxvg5OY1zx4HTxrYJhbL6hYlzp7Uy9u/MVQS41s2G6SyHTqBG8kdcrq9ps0A==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -897,7 +899,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="DJF/TwaQTUtvxTnVnh3NM7BBxqYuoZRWyqLVUsCVTlT3idiwWTJbg/7xws4EGISQh+61JIEECvRRZb94AANZnw==" />
+              <input type="hidden" data-csrf="true" value="F3WbndsElopEKL5wtA09WyrWYG0qseN2jx6Lg/9p9fOCLb+ECR+otvAByUAOB71QOvugALKZEcXYhAJxbTRAvw==" />
             </auto-check>
           </div>
 
@@ -934,7 +936,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="MUc13tXPChAK0iPiUvUqN0rPX3EOYsCtVhsl+vZ3/8M23e35INa5a6E7oVR/hROOE7QWRLqLHJO6CAHZ2soMWQ==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="WrTdB7G6VSPMEcn8rVZeWBrJnU9/Ajn3+IhELbVNiLywMSgVP1RP3hiEWIYx6XsTZApFeIqPuCaDVDmuLwBEyA==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -968,10 +970,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-30216f55-af36-4f9e-9d02-afc076bc9249" aria-labelledby="tooltip-d7c49132-d9b5-48b8-820b-449853c5c58d" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-b7ec313b-1095-4622-a07a-be5847e99358" aria-labelledby="tooltip-ea8c0bcc-b9bd-4b09-ba38-93d139bece5c" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d7c49132-d9b5-48b8-820b-449853c5c58d" for="icon-button-30216f55-af36-4f9e-9d02-afc076bc9249" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-ea8c0bcc-b9bd-4b09-ba38-93d139bece5c" for="icon-button-b7ec313b-1095-4622-a07a-be5847e99358" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1081,7 +1083,7 @@
           <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fshidahuilang%2Fshuyuan" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:479415631,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5d67e7e8267a75e24e836b40b18d4ad2d88f8c9e9af1d3703117e9f93a238cde" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="168" data-view-component="true" class="Counter">168</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="175" data-view-component="true" class="Counter">175</span>
 </a>
   </li>
 
@@ -1091,7 +1093,7 @@
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="2297 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="2,297" data-view-component="true" class="Counter js-social-count">2.3k</span>
+</span>          <span id="repo-stars-counter-star" aria-label="2371 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="2,371" data-view-component="true" class="Counter js-social-count">2.4k</span>
 </a>        <button aria-label="You must be signed in to add this repository to a list" type="button" disabled="disabled" data-view-component="true" class="btn-sm btn BtnGroup-item px-2">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
@@ -1200,20 +1202,20 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-button" popovertarget="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-overlay" aria-controls="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-list" aria-haspopup="true" aria-labelledby="tooltip-86376ce1-e31a-4ca9-8231-cdb5d09d22f4" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-button" popovertarget="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-overlay" aria-controls="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-list" aria-haspopup="true" aria-labelledby="tooltip-fc4b3bfd-3851-4cb1-ada6-0ffe3a5ac623" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-86376ce1-e31a-4ca9-8231-cdb5d09d22f4" for="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-fc4b3bfd-3851-4cb1-ada6-0ffe3a5ac623" for="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-overlay" anchor="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-overlay" anchor="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <div data-view-component="true">
-  <ul aria-labelledby="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-button" id="action-menu-00da8ab7-6cc2-4602-85e1-627773f8d2aa-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+  <ul aria-labelledby="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-button" id="action-menu-c8d633cb-491f-4d2f-9908-18198e6a9031-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-3f14948e-db8b-432f-a472-a6199804e016" href="/shidahuilang/shuyuan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-04c9e560-8843-4a76-8de0-0cf2d8d64b20" href="/shidahuilang/shuyuan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1228,7 +1230,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-fc1513cb-128a-428c-bfdb-6dfbf456d438" href="/shidahuilang/shuyuan/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-120ca21e-0b67-4b8c-9034-eff0299bc281" href="/shidahuilang/shuyuan/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1243,7 +1245,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-c51dc6f2-6d9c-4740-8b64-bd62bb9602b6" href="/shidahuilang/shuyuan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-a9354b49-92dc-412a-9d64-00f5a1f9befe" href="/shidahuilang/shuyuan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1258,7 +1260,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-e2a6eca6-58bf-40af-bf28-e055fef1ea94" href="/shidahuilang/shuyuan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-995c37ac-9a92-4204-9e45-c124ae998186" href="/shidahuilang/shuyuan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1273,7 +1275,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-94ca98d4-ea91-4413-a264-a4a31d687a32" href="/shidahuilang/shuyuan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-4f0e33d4-f59a-4c85-8320-c3d0df75e7e3" href="/shidahuilang/shuyuan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1288,7 +1290,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-2f06932d-495c-4b67-8286-cfa420d7cfa7" href="/shidahuilang/shuyuan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ce7c11e2-92b0-4394-a11a-56318c8a2aeb" href="/shidahuilang/shuyuan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1303,7 +1305,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-7a5d3ae5-0dff-4b66-be0c-cb152b7f0336" href="/shidahuilang/shuyuan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ed34b877-0ef2-4700-80c2-ab3e4bdb9a5b" href="/shidahuilang/shuyuan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1353,7 +1355,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"xiangse/漫画源":{"items":[{"name":"686漫画.xbs","path":"xiangse/漫画源/686漫画.xbs","contentType":"file"},{"name":"cc漫画.xbs","path":"xiangse/漫画源/cc漫画.xbs","contentType":"file"},{"name":"低调漫画.xbs","path":"xiangse/漫画源/低调漫画.xbs","contentType":"file"},{"name":"免追漫画.xbs","path":"xiangse/漫画源/免追漫画.xbs","contentType":"file"},{"name":"快看漫画.xbs","path":"xiangse/漫画源/快看漫画.xbs","contentType":"file"},{"name":"武侠漫画.xbs","path":"xiangse/漫画源/武侠漫画.xbs","contentType":"file"},{"name":"豆豆漫画.xbs","path":"xiangse/漫画源/豆豆漫画.xbs","contentType":"file"}],"totalCount":7},"xiangse":{"items":[{"name":"18+源","path":"xiangse/18+源","contentType":"directory"},{"name":"xiangse","path":"xiangse/xiangse","contentType":"directory"},{"name":"书源","path":"xiangse/书源","contentType":"directory"},{"name":"漫画源","path":"xiangse/漫画源","contentType":"directory"},{"name":"3.0.json","path":"xiangse/3.0.json","contentType":"file"},{"name":"3.01.json","path":"xiangse/3.01.json","contentType":"file"},{"name":"README.md","path":"xiangse/README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"xiangse/aiyueshuxiang.ibs","contentType":"file"},{"name":"reader书源-20220411_183419.json","path":"xiangse/reader书源-20220411_183419.json","contentType":"file"},{"name":"sourceModelList.xbs","path":"xiangse/sourceModelList.xbs","contentType":"file"},{"name":"xiangse.md","path":"xiangse/xiangse.md","contentType":"file"},{"name":"汇总源.xbs","path":"xiangse/汇总源.xbs","contentType":"file"},{"name":"🌐想看资源网📺.xbs","path":"xiangse/🌐想看资源网📺.xbs","contentType":"file"}],"totalCount":13},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"icons","path":"icons","contentType":"directory"},{"name":"ipa","path":"ipa","contentType":"directory"},{"name":"json","path":"json","contentType":"directory"},{"name":"py","path":"py","contentType":"directory"},{"name":"shuyuan_data","path":"shuyuan_data","contentType":"directory"},{"name":"shuyuans_data","path":"shuyuans_data","contentType":"directory"},{"name":"xiangse","path":"xiangse","contentType":"directory"},{"name":"xsreader","path":"xsreader","contentType":"directory"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"aiyueshuxiang.ibs","contentType":"file"},{"name":"book.json","path":"book.json","contentType":"file"},{"name":"error.json","path":"error.json","contentType":"file"},{"name":"good.json","path":"good.json","contentType":"file"},{"name":"ipa.json","path":"ipa.json","contentType":"file"},{"name":"iptv.txt","path":"iptv.txt","contentType":"file"},{"name":"jinghua.json","path":"jinghua.json","contentType":"file"},{"name":"shuyuan_data.json","path":"shuyuan_data.json","contentType":"file"},{"name":"shuyuans_data.json","path":"shuyuans_data.json","contentType":"file"},{"name":"tts.json","path":"tts.json","contentType":"file"}],"totalCount":21}},"fileTreeProcessingTime":4.510417,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":479415631,"defaultBranch":"shuyuan","name":"shuyuan","ownerLogin":"shidahuilang","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-04-08T14:09:15.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/81285256?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"shuyuan","listCacheKey":"v0:1704200759.0","canEdit":false,"refType":"branch","currentOid":"7af4ef1e5d9958a7a3c3e0a73d82f37847347027"},"path":"xiangse/漫画源/豆豆漫画.xbs","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/shidahuilang/shuyuan/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/shidahuilang/shuyuan/security/dependabot","repoSecurityAndAnalysisPath":"/shidahuilang/shuyuan/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"豆豆漫画.xbs","displayUrl":"https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs?raw=true","headerInfo":{"blobSize":"2.95 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"662c20e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fshidahuilang%2Fshuyuan%2Fblob%2Fshuyuan%2Fxiangse%2F%25E6%25BC%25AB%25E7%2594%25BB%25E6%25BA%2590%2F%25E8%25B1%2586%25E8%25B1%2586%25E6%25BC%25AB%25E7%2594%25BB.xbs","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/shidahuilang/shuyuan/discussions/new","newIssuePath":"/shidahuilang/shuyuan/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/shidahuilang/shuyuan/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/shidahuilang/shuyuan/raw/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"shidahuilang","repoName":"shuyuan","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/shidahuilang/shuyuan/branches":{"post":"iVZWPwWV-lj1mbz5oYqJDeYtjT7nNQxat76e8jutr810gLDcXjqOw82yJUuo0YD1Rww9m-MHPsiWRqrFxPCMOA"},"/repos/preferences":{"post":"2ODmw4AJooxmx_Tsb6xMMrWIOpEsvfbBitNxb-uY2_SnBLGKkJbCoNm3SCO0lpHLwtoFYUHkZCUvtfFvyTb8gw"}}},"title":"shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c6704d501c10.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false,"react_blob_chunk_separated_characters":true}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"xiangse/漫画源":{"items":[{"name":"686漫画.xbs","path":"xiangse/漫画源/686漫画.xbs","contentType":"file"},{"name":"cc漫画.xbs","path":"xiangse/漫画源/cc漫画.xbs","contentType":"file"},{"name":"低调漫画.xbs","path":"xiangse/漫画源/低调漫画.xbs","contentType":"file"},{"name":"免追漫画.xbs","path":"xiangse/漫画源/免追漫画.xbs","contentType":"file"},{"name":"快看漫画.xbs","path":"xiangse/漫画源/快看漫画.xbs","contentType":"file"},{"name":"武侠漫画.xbs","path":"xiangse/漫画源/武侠漫画.xbs","contentType":"file"},{"name":"豆豆漫画.xbs","path":"xiangse/漫画源/豆豆漫画.xbs","contentType":"file"}],"totalCount":7},"xiangse":{"items":[{"name":"18+源","path":"xiangse/18+源","contentType":"directory"},{"name":"xiangse","path":"xiangse/xiangse","contentType":"directory"},{"name":"书源","path":"xiangse/书源","contentType":"directory"},{"name":"漫画源","path":"xiangse/漫画源","contentType":"directory"},{"name":"3.0.json","path":"xiangse/3.0.json","contentType":"file"},{"name":"3.01.json","path":"xiangse/3.01.json","contentType":"file"},{"name":"README.md","path":"xiangse/README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"xiangse/aiyueshuxiang.ibs","contentType":"file"},{"name":"reader书源-20220411_183419.json","path":"xiangse/reader书源-20220411_183419.json","contentType":"file"},{"name":"sourceModelList.xbs","path":"xiangse/sourceModelList.xbs","contentType":"file"},{"name":"xiangse.md","path":"xiangse/xiangse.md","contentType":"file"},{"name":"汇总源.xbs","path":"xiangse/汇总源.xbs","contentType":"file"},{"name":"🌐想看资源网📺.xbs","path":"xiangse/🌐想看资源网📺.xbs","contentType":"file"}],"totalCount":13},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"icons","path":"icons","contentType":"directory"},{"name":"ipa","path":"ipa","contentType":"directory"},{"name":"json","path":"json","contentType":"directory"},{"name":"py","path":"py","contentType":"directory"},{"name":"shuyuan_data","path":"shuyuan_data","contentType":"directory"},{"name":"shuyuans_data","path":"shuyuans_data","contentType":"directory"},{"name":"xiangse","path":"xiangse","contentType":"directory"},{"name":"xsreader","path":"xsreader","contentType":"directory"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"aiyueshuxiang.ibs","contentType":"file"},{"name":"book.json","path":"book.json","contentType":"file"},{"name":"error.json","path":"error.json","contentType":"file"},{"name":"good.json","path":"good.json","contentType":"file"},{"name":"ipa.json","path":"ipa.json","contentType":"file"},{"name":"iptv.txt","path":"iptv.txt","contentType":"file"},{"name":"jinghua.json","path":"jinghua.json","contentType":"file"},{"name":"shuyuan_data.json","path":"shuyuan_data.json","contentType":"file"},{"name":"shuyuans_data.json","path":"shuyuans_data.json","contentType":"file"},{"name":"tts.json","path":"tts.json","contentType":"file"}],"totalCount":21}},"fileTreeProcessingTime":4.1909790000000005,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":479415631,"defaultBranch":"shuyuan","name":"shuyuan","ownerLogin":"shidahuilang","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-04-08T14:09:15.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/81285256?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"shuyuan","listCacheKey":"v0:1704200759.0","canEdit":false,"refType":"branch","currentOid":"188ddb4f3ed841e1784dd1cc7b66a1d0ec0fe964"},"path":"xiangse/漫画源/豆豆漫画.xbs","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/shidahuilang/shuyuan/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/shidahuilang/shuyuan/security/dependabot","repoSecurityAndAnalysisPath":"/shidahuilang/shuyuan/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"豆豆漫画.xbs","displayUrl":"https://github.com/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs?raw=true","headerInfo":{"blobSize":"2.95 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"662c20e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fshidahuilang%2Fshuyuan%2Fblob%2Fshuyuan%2Fxiangse%2F%25E6%25BC%25AB%25E7%2594%25BB%25E6%25BA%2590%2F%25E8%25B1%2586%25E8%25B1%2586%25E6%25BC%25AB%25E7%2594%25BB.xbs","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/shidahuilang/shuyuan/discussions/new","newIssuePath":"/shidahuilang/shuyuan/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/shidahuilang/shuyuan/blob/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/shidahuilang/shuyuan/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/shidahuilang/shuyuan/raw/shuyuan/xiangse/%E6%BC%AB%E7%94%BB%E6%BA%90/%E8%B1%86%E8%B1%86%E6%BC%AB%E7%94%BB.xbs","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"shidahuilang","repoName":"shuyuan","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/shidahuilang/shuyuan/branches":{"post":"YOdz2fD3Sa18bDXJ9TJFCugp_2B4drTM1dWQwAEAMTs_XapJboR0aJJDYI59UN4XRZYjcriPZwPM8ZH9ofqJWw"},"/repos/preferences":{"post":"4lFMJex7KV8t1T04q8hkfsKaB5AIAh44iLGupFLlSutxfFLSXrBhFIsCoL2Z-DYLUGFrZscQ_nZ1IVc5_mY3bw"}}},"title":"shuyuan/xiangse/漫画源/豆豆漫画.xbs at shuyuan · shidahuilang/shuyuan","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c6704d501c10.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false,"react_blob_chunk_separated_characters":true}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
