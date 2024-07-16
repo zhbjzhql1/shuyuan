@@ -1,0 +1,47 @@
+[
+  {
+    "bookSourceGroup": "",
+    "bookSourceName": "完本小说",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.pilishuwu.com/",
+    "customOrder": -1,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 13; 23049RAD8C Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.6045.194 Mobile Safari/537.36\"}",
+    "lastUpdateTime": 1720848226936,
+    "respondTime": 180000,
+    "ruleBookInfo": {
+      "intro": ".x-detail__intro--content@html",
+      "kind": "",
+      "lastChapter": ".x-catalog__new@text",
+      "tocUrl": ".x-catalog__more@tag.a@href",
+      "wordCount": ".x-detail__info--reads@text##进程："
+    },
+    "ruleContent": {
+      "content": "@js:\nvar num = result.match(/id=\"(\\d+)\"/)[1];\nvar u = \"https://www.pilishuwu.com/wmcms/ajax/index.php?action=novel.getchapter&cid=\" + num +\"&format=1\"\nvar head = JSON.parse(source.header)||{}\nvar body = java.get(u,head).body();\nvar temp = JSON.parse(body).data.chapter.content\nresult=\"\"\nfor(let i = 0; i < temp.length; i ++){\n      result = result + \"\\n\" + temp[i]\n}",
+      "replaceRegex": ""
+    },
+    "ruleExplore": [],
+    "ruleReview": [],
+    "ruleSearch": {
+      "author": "class.book-status@text",
+      "bookList": "class.van-list@tag.span@class.x-book",
+      "bookUrl": "class.x-book__coverbox@tag.a@href",
+      "checkKeyWord": "我不想和你一起重生",
+      "coverUrl": "class.x-book__cover.img@src",
+      "intro": "class.x-book__intro@text\n@js:result+=\"…\"",
+      "kind": "class.book-fenlei@text",
+      "lastChapter": "",
+      "name": "class.x-book__info--name@text",
+      "wordCount": "class.book-wordcount@text"
+    },
+    "ruleToc": {
+      "chapterList": "ol li a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "search/0/{{key}}/1.html",
+    "weight": 0
+  }
+]
